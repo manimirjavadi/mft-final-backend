@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "name": "Cheeseburger",
+    "category": "Burgers",
+    "image": "http://localhost:3131/images/burgers/burger1.webp",
+    "price": 8.99,
+    "ingredients": [
+      "Beef patty",
+      "Cheddar cheese",
+      "Lettuce",
+      "Tomato",
+      "Onion"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni Pizza",
+    "category": "Pizzas",
+    "image": "http://localhost:3131/images/pizzas/pizza1.webp",
+    "price": 12.99,
+    "ingredients": [
+      "Pepperoni",
+      "Mozzarella cheese",
+      "Tomato sauce",
+      "Fresh basil"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Coca-Cola",
+    "category": "Drinks",
+    "image": "http://localhost:3131/images/drinks/drink1.webp",
+    "price": 2.99,
+    "ingredients": ["Carbonated water", "Sugar", "Caffeine", "Coca-Cola flavor"]
+  },
+  {
+    "id": 4,
+    "name": "Bacon Cheeseburger",
+    "category": "Burgers",
+    "image": "http://localhost:3131/images/burgers/burger2.webp",
+    "price": 10.99,
+    "ingredients": [
+      "Beef patty",
+      "Cheddar cheese",
+      "Bacon",
+      "Lettuce",
+      "Tomato",
+      "Onion"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Margherita Pizza",
+    "category": "Pizzas",
+    "image": "http://localhost:3131/images/pizzas/pizza2.webp",
+    "price": 14.99,
+    "ingredients": ["Tomato sauce", "Mozzarella cheese", "Fresh basil"]
+  },
+  {
+    "id": 6,
+    "name": "Fanta",
+    "category": "Drinks",
+    "image": "http://localhost:3131/images/drinks/drink2.webp",
+    "price": 2.99,
+    "ingredients": ["Carbonated water", "Sugar", "Fanta flavor"]
+  },
+  {
+    "id": 7,
+    "name": "Chicken Burger",
+    "category": "Burgers",
+    "image": "http://localhost:3131/images/burgers/burger3.webp",
+    "price": 9.99,
+    "ingredients": ["Chicken patty", "Lettuce", "Tomato", "Onion", "Mayonnaise"]
+  },
+  {
+    "id": 8,
+    "name": "Meat Lover's Pizza",
+    "category": "Pizzas",
+    "image": "http://localhost:3131/images/pizzas/pizza3.webp",
+    "price": 16.99,
+    "ingredients": [
+      "Pepperoni",
+      "Sausage",
+      "Bacon",
+      "Mozzarella cheese",
+      "Tomato sauce"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Sprite",
+    "category": "Drinks",
+    "image": "http://localhost:3131/images/drinks/drink3.webp",
+    "price": 2.99,
+    "ingredients": ["Carbonated water", "Sugar", "Sprite flavor"]
+  },
+  {
+    "id": 10,
+    "name": "Veggie Burger",
+    "category": "Burgers",
+    "image": "http://localhost:3131/images/burgers/burger4.webp",
+    "price": 8.99,
+    "ingredients": ["Veggie patty", "Lettuce", "Tomato", "Onion", "Mayonnaise"]
+  },
+  {
+    "id": 11,
+    "name": "Hawaiian Pizza",
+    "category": "Pizzas",
+    "image": "http://localhost:3131/images/pizzas/pizza4.webp",
+    "price": 13.99,
+    "ingredients": ["Ham", "Pineapple", "Mozzarella cheese", "Tomato sauce"]
+  },
+  {
+    "id": 12,
+    "name": "Diet Coke",
+    "category": "Drinks",
+    "image": "http://localhost:3131/images/drinks/drink4.webp",
+    "price": 2.99,
+    "ingredients": [
+      "Carbonated water",
+      "Artificial sweetener",
+      "Diet Coke flavor"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Mushroom Swiss Burger",
+    "category": "Burgers",
+    "image": "http://localhost:3131/images/burgers/burger5.webp",
+    "price": 10.99,
+    "ingredients": [
+      "Beef patty",
+      "Mushrooms",
+      "Swiss cheese",
+      "Lettuce",
+      "Tomato",
+      "Onion"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "BBQ Chicken Pizza",
+    "category": "Pizzas",
+    "image": "http://localhost:3131/images/pizzas/pizza5.webp",
+    "price": 14.99,
+    "ingredients": ["Chicken", "BBQ sauce", "Mozzarella cheese", "Red onion"]
+  },
+  {
+    "id": 15,
+    "name": "Iced Tea",
+    "category": "Drinks",
+    "image": "http://localhost:3131/images/drinks/drink5.webp",
+    "price": 1.99,
+    "ingredients": ["Brewed tea", "Ice"]
+  },
+  {
+    "id": 16,
+    "name": "Jalapeno Popper Burger",
+    "category": "Burgers",
+    "image": "http://localhost:3131/images/burgers/burger6.webp",
+    "price": 11.99,
+    "ingredients": [
+      "Beef patty",
+      "Jalapeno peppers",
+      "Cream cheese",
+      "Bacon",
+      "Lettuce",
+      "Tomato",
+      "Onion"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Veggie Pizza",
+    "category": "Pizzas",
+    "image": "http://localhost:3131/images/pizzas/pizza6.webp",
+    "price": 12.99,
+    "ingredients": [
+      "Tomato sauce",
+      "Mozzarella cheese",
+      "Mushrooms",
+      "Onions",
+      "Bell peppers"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Lemonade",
+    "category": "Drinks",
+    "image": "http://localhost:3131/images/drinks/drink6.webp",
+    "price": 2.99,
+    "ingredients": ["Lemon juice", "Sugar", "Water"]
+  },
+  {
+    "id": 19,
+    "name": "Bacon Cheese Fries Burger",
+    "category": "Burgers",
+    "image": "http://localhost:3131/images/burgers/burger7.webp",
+    "price": 12.99,
+    "ingredients": [
+      "Beef patty",
+      "Bacon",
+      "Cheddar cheese",
+      "Fries",
+      "Lettuce",
+      "Tomato",
+      "Onion"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Soda Water",
+    "category": "Drinks",
+    "image": "http://localhost:3131/images/drinks/drink7.webp",
+    "price": 1.99,
+    "ingredients": ["Carbonated water"]
+  }
+]

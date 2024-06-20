@@ -1,219 +1,266 @@
 [
   {
     "id": 1,
-    "name": "Cheeseburger",
+    "name": "همبرگر",
     "category": "Burgers",
-    "image": "http://localhost:3131/images/burgers/burger1.webp",
-    "price": 8.99,
+    "image": "http://localhost:3131/images/burgers/hamburger.png",
+    "price": 190000,
     "ingredients": [
-      "Beef patty",
-      "Cheddar cheese",
-      "Lettuce",
-      "Tomato",
-      "Onion"
+      "۱۵۰ گرم گوشت چرخ کرده",
+      "پیاز",
+      "کاهو",
+      "گوجه",
+      "خیارشور",
+      "سس مخصوص"
     ]
   },
   {
     "id": 2,
-    "name": "Pepperoni Pizza",
-    "category": "Pizzas",
-    "image": "http://localhost:3131/images/pizzas/pizza1.webp",
-    "price": 12.99,
+    "name": "چیزبرگر",
+    "category": "Burgers",
+    "image": "http://localhost:3131/images/burgers/cheese-burger.png",
+    "price": 232000,
     "ingredients": [
-      "Pepperoni",
-      "Mozzarella cheese",
-      "Tomato sauce",
-      "Fresh basil"
+      "۱۵۰ گرم گوشت چرخ کرده",
+      "پنیر گودا",
+      "پیاز",
+      "کاهو",
+      "گوجه",
+      "خیارشور",
+      "سس مخصوص"
     ]
   },
   {
     "id": 3,
-    "name": "Coca-Cola",
-    "category": "Drinks",
-    "image": "http://localhost:3131/images/drinks/drink1.webp",
-    "price": 2.99,
-    "ingredients": ["Carbonated water", "Sugar", "Caffeine", "Coca-Cola flavor"]
+    "name": "دبل چیز برگر",
+    "category": "Burgers",
+    "image": "http://localhost:3131/images/burgers/double-cheese-burger.png",
+    "price": 380000,
+    "ingredients": [
+      "۳۵۰ گرم گوشت چرخ کرده",
+      "پنیر گودا",
+      "پیاز",
+      "کاهو",
+      "گوجه",
+      "خیارشور",
+      "سس مخصوص"
+    ]
   },
   {
     "id": 4,
-    "name": "Bacon Cheeseburger",
+    "name": "سوخاری برگر",
     "category": "Burgers",
-    "image": "http://localhost:3131/images/burgers/burger2.webp",
-    "price": 10.99,
+    "image": "http://localhost:3131/images/burgers/fried-burger.png",
+    "price": 150000,
     "ingredients": [
-      "Beef patty",
-      "Cheddar cheese",
-      "Bacon",
-      "Lettuce",
-      "Tomato",
-      "Onion"
+      "۱۵۰ گرم سینه مرغ مزه دار شده سوخاری",
+      "پنیر گودا",
+      "پیاز",
+      "کاهو",
+      "گوجه",
+      "خیارشور",
+      "سس مخصوص"
     ]
   },
   {
     "id": 5,
-    "name": "Margherita Pizza",
-    "category": "Pizzas",
-    "image": "http://localhost:3131/images/pizzas/pizza2.webp",
-    "price": 14.99,
-    "ingredients": ["Tomato sauce", "Mozzarella cheese", "Fresh basil"]
+    "name": "بیکن برگر",
+    "category": "Burgers",
+    "image": "http://localhost:3131/images/burgers/beacon-burger.png",
+    "price": 300000,
+    "ingredients": [
+      "۱۵۰ گرم گوشت چرخ کرده",
+      "بیکن",
+      "پنیر گودا",
+      "پیاز",
+      "کاهو",
+      "گوجه",
+      "خیارشور",
+      "سس مخصوص"
+    ]
   },
   {
     "id": 6,
-    "name": "Fanta",
-    "category": "Drinks",
-    "image": "http://localhost:3131/images/drinks/drink2.webp",
-    "price": 2.99,
-    "ingredients": ["Carbonated water", "Sugar", "Fanta flavor"]
+    "name": "ماشروم برگر",
+    "category": "Burgers",
+    "image": "http://localhost:3131/images/burgers/mushroom-burger.png",
+    "price": 245000,
+    "ingredients": [
+      "۱۵۰ گرم گوشت چرخ کرده",
+      "قارچ",
+      "پنیر گودا",
+      "پیاز",
+      "کاهو",
+      "گوجه",
+      "خیارشور",
+      "سس مخصوص"
+    ]
   },
   {
     "id": 7,
-    "name": "Chicken Burger",
-    "category": "Burgers",
-    "image": "http://localhost:3131/images/burgers/burger3.webp",
-    "price": 9.99,
-    "ingredients": ["Chicken patty", "Lettuce", "Tomato", "Onion", "Mayonnaise"]
+    "name": "پیتزا مخصوص",
+    "category": "Pizzas",
+    "image": "http://localhost:3131/images/pizzas/special-pizza.png",
+    "price": 240000,
+    "ingredients": [
+      "گوشت چرخ کرده",
+      "پنیر پیتزا",
+      "پنیر گودا",
+      "پپرونی",
+      "ژامبون",
+      "سوسیس",
+      "قارچ",
+      "فلفل دلمه"
+    ]
   },
   {
     "id": 8,
-    "name": "Meat Lover's Pizza",
+    "name": "پیتزا مخلوط",
     "category": "Pizzas",
-    "image": "http://localhost:3131/images/pizzas/pizza3.webp",
-    "price": 16.99,
+    "image": "http://localhost:3131/images/pizzas/mixed-pizza.png",
+    "price": 250000,
     "ingredients": [
-      "Pepperoni",
-      "Sausage",
-      "Bacon",
-      "Mozzarella cheese",
-      "Tomato sauce"
+      "گوشت چرخ کرده",
+      "پنیر پیتزا",
+      "پنیر گودا",
+      "پپرونی",
+      "ژامبون",
+      "سوسیس",
+      "قارچ",
+      "زیتون سیاه",
+      "فلفل دلمه"
     ]
   },
   {
     "id": 9,
-    "name": "Sprite",
-    "category": "Drinks",
-    "image": "http://localhost:3131/images/drinks/drink3.webp",
-    "price": 2.99,
-    "ingredients": ["Carbonated water", "Sugar", "Sprite flavor"]
+    "name": "پپرونی",
+    "category": "Pizzas",
+    "image": "http://localhost:3131/images/pizzas/peperoni.png",
+    "price": 200000,
+    "ingredients": [
+      "پنیر پیتزا",
+      "پنیر گودا",
+      "پپرونی",
+      "فلفل دلمه",
+      "زیتون سبز"
+    ]
   },
   {
     "id": 10,
-    "name": "Veggie Burger",
-    "category": "Burgers",
-    "image": "http://localhost:3131/images/burgers/burger4.webp",
-    "price": 8.99,
-    "ingredients": ["Veggie patty", "Lettuce", "Tomato", "Onion", "Mayonnaise"]
+    "name": "پیتزا استیک",
+    "category": "Pizzas",
+    "image": "http://localhost:3131/images/pizzas/stake-pizza.png",
+    "price": 300000,
+    "ingredients": [
+      "گوشت استیک طعم دار شده",
+      "پنیر پیتزا",
+      "پنیر گودا",
+      "پپرونی",
+      "ژامبون",
+      "سوسیس",
+      "قارچ",
+      "زیتون سیاه",
+      "فلفل دلمه"
+    ]
   },
   {
     "id": 11,
-    "name": "Hawaiian Pizza",
+    "name": "پیتزا سبزیجات",
     "category": "Pizzas",
-    "image": "http://localhost:3131/images/pizzas/pizza4.webp",
-    "price": 13.99,
-    "ingredients": ["Ham", "Pineapple", "Mozzarella cheese", "Tomato sauce"]
+    "image": "http://localhost:3131/images/pizzas/veg-pizza.png",
+    "price": 200000,
+    "ingredients": [
+      "پنیر پیتزا",
+      "پنیر گودا",
+      "ژامبون سبزیجات",
+      "قارچ",
+      "زیتون سیاه",
+      "فلفل دلمه"
+    ]
   },
   {
     "id": 12,
-    "name": "Diet Coke",
-    "category": "Drinks",
-    "image": "http://localhost:3131/images/drinks/drink4.webp",
-    "price": 2.99,
+    "name": "پیتزا بیکن",
+    "category": "Pizzas",
+    "image": "http://localhost:3131/images/pizzas/beacon-pizza.png",
+    "price": 300000,
     "ingredients": [
-      "Carbonated water",
-      "Artificial sweetener",
-      "Diet Coke flavor"
+      "بیکن دودی",
+      "پنیر پیتزا",
+      "پنیر گودا",
+      "قارچ",
+      "فلفل دلمه"
     ]
   },
   {
     "id": 13,
-    "name": "Mushroom Swiss Burger",
-    "category": "Burgers",
-    "image": "http://localhost:3131/images/burgers/burger5.webp",
-    "price": 10.99,
+    "name": "پیتزا بیکن",
+    "category": "Drinks",
+    "image": "http://localhost:3131/images/drinks/cocacola.png",
+    "price": 30000,
     "ingredients": [
-      "Beef patty",
-      "Mushrooms",
-      "Swiss cheese",
-      "Lettuce",
-      "Tomato",
-      "Onion"
+      "کوکاکولا",
+      "یخ"
     ]
   },
   {
     "id": 14,
-    "name": "BBQ Chicken Pizza",
-    "category": "Pizzas",
-    "image": "http://localhost:3131/images/pizzas/pizza5.webp",
-    "price": 14.99,
-    "ingredients": ["Chicken", "BBQ sauce", "Mozzarella cheese", "Red onion"]
+    "name": "فانتا پرتقالی",
+    "category": "Drinks",
+    "image": "http://localhost:3131/images/drinks/fanta.png",
+    "price": 30000,
+    "ingredients": [
+      "فانتا پرتقالی",
+      "یخ"
+    ]
   },
   {
     "id": 15,
-    "name": "Iced Tea",
+    "name": "سون آپ",
     "category": "Drinks",
-    "image": "http://localhost:3131/images/drinks/drink5.webp",
-    "price": 1.99,
-    "ingredients": ["Brewed tea", "Ice"]
+    "image": "http://localhost:3131/images/drinks/7up.png",
+    "price": 30000,
+    "ingredients": [
+      "سون آپ",
+      "یخ"
+    ]
   },
   {
     "id": 16,
-    "name": "Jalapeno Popper Burger",
-    "category": "Burgers",
-    "image": "http://localhost:3131/images/burgers/burger6.webp",
-    "price": 11.99,
+    "name": "لیموناد",
+    "category": "Drinks",
+    "image": "http://localhost:3131/images/drinks/lemonade.png",
+    "price": 40000,
     "ingredients": [
-      "Beef patty",
-      "Jalapeno peppers",
-      "Cream cheese",
-      "Bacon",
-      "Lettuce",
-      "Tomato",
-      "Onion"
+      "لیمو",
+      "سودا",
+      "سیروپ لیمو",
+      "یخ"
     ]
   },
   {
     "id": 17,
-    "name": "Veggie Pizza",
-    "category": "Pizzas",
-    "image": "http://localhost:3131/images/pizzas/pizza6.webp",
-    "price": 12.99,
+    "name": "موهیتو",
+    "category": "Drinks",
+    "image": "http://localhost:3131/images/drinks/mohito.png",
+    "price": 50000,
     "ingredients": [
-      "Tomato sauce",
-      "Mozzarella cheese",
-      "Mushrooms",
-      "Onions",
-      "Bell peppers"
+      "لیمو",
+      "سودا",
+      "سیروپ موهیتو",
+      "نعنا",
+      "یخ"
     ]
   },
   {
     "id": 18,
-    "name": "Lemonade",
+    "name": "ایستک",
     "category": "Drinks",
-    "image": "http://localhost:3131/images/drinks/drink6.webp",
-    "price": 2.99,
-    "ingredients": ["Lemon juice", "Sugar", "Water"]
-  },
-  {
-    "id": 19,
-    "name": "Bacon Cheese Fries Burger",
-    "category": "Burgers",
-    "image": "http://localhost:3131/images/burgers/burger7.webp",
-    "price": 12.99,
+    "image": "http://localhost:3131/images/drinks/istak.png",
+    "price": 25000,
     "ingredients": [
-      "Beef patty",
-      "Bacon",
-      "Cheddar cheese",
-      "Fries",
-      "Lettuce",
-      "Tomato",
-      "Onion"
+      "ایستک",
+      "یخ"
     ]
-  },
-  {
-    "id": 20,
-    "name": "Soda Water",
-    "category": "Drinks",
-    "image": "http://localhost:3131/images/drinks/drink7.webp",
-    "price": 1.99,
-    "ingredients": ["Carbonated water"]
   }
 ]
